@@ -1,6 +1,6 @@
 # SignUp-Notifier
 
-Created a tiny monitoring tool which will email you about new signups in your applications.Upon 5 new signups or more it will send you a mail and every week it will send you email about all the new account creations in that week.
+A tiny monitoring tool which will email you about new signups in your applications.Upon 5 new signups or more it will send you a mail and every week it will send you email about all the new account creations in that week.
 
 ## Features
 
